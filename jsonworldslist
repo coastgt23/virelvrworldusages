@@ -1,0 +1,14 @@
+{
+  "worlds": [
+    {
+      "name": "Neon City",
+      "url": "https://myserver.com/worlds/world_neoncity",
+      "imageUrl": "https://myserver.com/images/neoncity.png"
+    },
+    {
+      "name": "Forest Camp",
+      "url": "https://myserver.com/worlds/world_forestcamp",
+      "imageUrl": "https://myserver.com/images/forestcamp.png"
+    }
+  ]
+}
