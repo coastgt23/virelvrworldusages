@@ -1,8 +1,8 @@
 {
   "worlds": [
     {
-      "name": "Neon City",
-      "url": "https://myserver.com/worlds/world_neoncity",
+      "name": "ExampleOld",
+      "url": "https://github.com/coastgt23/virelvrworldusages/raw/refs/heads/main/world_example_usage",
       "imageUrl": "https://myserver.com/images/neoncity.png"
     },
     {
