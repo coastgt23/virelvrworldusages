@@ -1,12 +1,12 @@
 {
   "worlds": [
     {
-      "name": "ExampleOld",
+      "name": "FirstEverWorld",
       "url": "https://github.com/coastgt23/virelvrworldusages/raw/refs/heads/main/world_example_usage",
       "imageUrl": "https://raw.githubusercontent.com/coastgt23/virelvrworldusages/refs/heads/main/aedfrwfefrew.jpg"
     },
     {
-      "name": "ExampleNew",
+      "name": "VirelVRUsageCheck",
       "url": "https://github.com/coastgt23/virelvrworldusages/raw/refs/heads/main/world_new_example_usage",
       "imageUrl": "https://raw.githubusercontent.com/coastgt23/virelvrworldusages/refs/heads/main/aedfrwfefrew.jpg"
     }
