@@ -6,8 +6,8 @@
       "imageUrl": "https://myserver.com/images/neoncity.png"
     },
     {
-      "name": "Forest Camp",
-      "url": "https://myserver.com/worlds/world_forestcamp",
+      "name": "ExampleNew",
+      "url": "https://github.com/coastgt23/virelvrworldusages/raw/refs/heads/main/world_new_example_usage",
       "imageUrl": "https://myserver.com/images/forestcamp.png"
     }
   ]
